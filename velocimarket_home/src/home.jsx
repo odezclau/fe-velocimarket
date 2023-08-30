@@ -1,4 +1,4 @@
-import './index.css'
+import './home.css'
 import imagendino from './assets/dino-imagen.png';
 
 export function Homevel({ }) {

@@ -1,4 +1,4 @@
-import './index.css'
+import './header.css'
 import logo from './assets/logo-chiquito.svg'
 
 
@@ -10,7 +10,7 @@ export function Headervel({ }) {
             <span className='nombrelogo'>VelociMarket</span>
             </div>
             <nav>
-                <a className="nav-link">SOBRE NOSOTROS</a>
+                <a className="nav-link">OFERTAS</a>
                 <a className="nav-link">BLOG</a>
                 <a className="nav-link">PRODUCTOS</a>
                 <a className="nav-link">SOPORTE</a>
